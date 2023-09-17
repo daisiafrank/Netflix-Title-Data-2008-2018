@@ -13,7 +13,6 @@ An in-depth analysis of the titles available on Netflix, exploring the growth, d
 
 This repository contains a data analysis project focusing on the titles (movies and TV shows) available on Netflix. We aim to understand the platform's growth over time, its global reach, and the diversity of its content.
 
-![Netflix Growth Over Time](path_to_image/growth_over_time.png)
 
 ![Netflix Logo](https://duet-cdn.vox-cdn.com/thumbor/0x0:3151x2048/1200x800/filters:focal(1575x1024:1576x1025):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/15844974/netflixlogo.0.0.1466448626.png)
 
