@@ -15,7 +15,7 @@ This repository contains a data analysis project focusing on the titles (movies 
 
 ![Netflix Growth Over Time](path_to_image/growth_over_time.png)
 
-![Netflix Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANetflix_logo.svg&psig=AOvVaw00zkAo1P0AAGMvoHRApoUf&ust=1695055466073000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJDn_umLsoEDFQAAAAAdAAAAABAE)
+![Netflix Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrand.netflix.com%2Fen%2Fassets%2Flogos%2F&psig=AOvVaw00zkAo1P0AAGMvoHRApoUf&ust=1695055466073000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJDn_umLsoEDFQAAAAAdAAAAABAJ)
 
 ## Dataset
 
