@@ -71,4 +71,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-This is a basic structure for a README. Depending on your specific needs, you might want to add, remove, or modify sections. Remember to replace placeholders (like the GitHub username and image paths) with actual values relevant to your project.
