@@ -9,6 +9,8 @@
 
 An in-depth analysis of the titles available on Netflix, exploring the growth, diversity, and distribution of content ratings.
 
+**Full code located in file "3. Netflix EDA.ipynb"**
+
 ## Overview
 
 This repository contains a data analysis project focusing on the titles (movies and TV shows) available on Netflix. We aim to understand the platform's growth over time, its global reach, and the diversity of its content.
